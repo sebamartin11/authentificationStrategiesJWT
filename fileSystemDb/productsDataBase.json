@@ -1,0 +1,46 @@
+[
+	{
+		"id": 1,
+		"title": "Coca",
+		"description": "esta muy barata",
+		"price": "15",
+		"thumbnail": "www.prueba.com",
+		"code": "75",
+		"stock": "3",
+		"category": "gaseosa",
+		"status": "success"
+	},
+	{
+		"id": 2,
+		"title": "Pepsi",
+		"description": "esta muy cara",
+		"price": "20",
+		"thumbnail": "www.prueba2.com",
+		"code": "32",
+		"stock": "5",
+		"category": "gaseosa",
+		"status": "success"
+	},
+	{
+		"id": 3,
+		"title": "pruebaPostman",
+		"description": "test",
+		"code": "6666",
+		"price": 12345,
+		"thumbnail": "[]",
+		"stock": 60,
+		"category": "prueba",
+		"status": "success"
+	},
+	{
+		"id": 1,
+		"title": "test",
+		"description": "test",
+		"code": "test",
+		"price": 1,
+		"thumbnail": "1674498096290-descarga.jpg",
+		"stock": 1,
+		"category": "test",
+		"status": "test"
+	}
+]
